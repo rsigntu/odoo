@@ -8,6 +8,10 @@
 		"security/birthday_schduler.xml",
 		"views/email_template_view.xml"
 	],
+	"images": [
+		"static/description/bday1.jpg",
+		"static/description/bday2.jpg",
+	]
 	"price": 5,
 	"currency": "USD",
 	"author": "Ravi Singh",
