@@ -14,6 +14,5 @@
 	],
 	"price": 5,
 	"currency": "USD",
-	"author": "Ravi Singh",
 	"installable": True,
 }
