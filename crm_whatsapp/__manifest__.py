@@ -5,7 +5,7 @@
 	"category": "crm",
 	"author": "Ravi Singh Parihar",
 	"images": [
-		"static/description/icon.jpeg"
+		"static/description/thumbnail.jpg"
 	],
 	"price": "10",
 	"currency": "USD",
