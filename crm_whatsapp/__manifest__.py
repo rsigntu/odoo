@@ -7,8 +7,8 @@
 	"images": [
 		"static/description/thumbnail.jpg"
 	],
-	"price": "10",
-	"currency": "USD",
+	# "price": "10",
+	# "currency": "USD",
 	"version": "14.0.0.1",
 	"data": [
 		"security/ir.model.access.csv",

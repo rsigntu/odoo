@@ -12,7 +12,7 @@
 		"static/description/bday1.jpg",
 		"static/description/bday2.jpg",
 	],
-	"price": 5,
-	"currency": "USD",
+	# "price": 5,
+	# "currency": "USD",
 	"installable": True,
 }
